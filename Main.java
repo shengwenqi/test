@@ -7,5 +7,6 @@ public class Main {
         c1.num=4;
         c1.run();
         c2.run();
+        System.out.println("it's a test");
     }
 }
